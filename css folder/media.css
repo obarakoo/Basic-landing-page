@@ -1,0 +1,39 @@
+.media-icons {
+    z-index: 998;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-left: 90px;
+    cursor: pointer;
+}
+
+.media-icons a {
+    color: var(--white-color);
+    font-size: 1.7em;
+    margin: 10px 0;
+}
+
+.media-icons a:hover{
+    background: rgb(255, 255, 255, 0.1);
+    backdrop-filter: blur(20px);
+    border-bottom: 1px solid rgb(255, 255, 255, 0.1);
+    transition: 0.3s ease;
+    border-radius: 50%;
+    padding: 0px 10px;
+
+
+}
+
+.media-icons a:nth-child(1):hover{
+    color: rgb(74, 76, 228);
+}
+
+.media-icons a:nth-child(2):hover{
+    color:rgb(233, 167, 44);
+}
+
+.media-icons a:nth-child(3):hover{
+ color: aqua;
+}
