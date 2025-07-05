@@ -33,7 +33,7 @@ I enjoy turning complex ideas into simple, user-friendly designs, and ensuring s
 
 ## 📈 GitHub Stats
 
-![Alfred's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react)
+![Alfred's GitHub stats](https://github.com/obarakoo)
 
 ---
 
