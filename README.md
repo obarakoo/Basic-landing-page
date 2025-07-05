@@ -1,40 +1,48 @@
-# Hi there 👋, I'm Alfred!
+# 👋 Hi, I'm Alfred Porcales
 
-Welcome to my GitHub profile! I'm a passionate [Your Role/Title], specializing in [Your Specialization] and constantly learning new technologies to grow as a developer.
-
----
-
-## 🚀 About Me
-- 🔭 I’m currently working on: [Your current project/learning]
-- 🌱 I’m learning: [Technology you're learning]
-- 👯 I’m looking to collaborate on: [Projects you're interested in collaborating on]
-- 💬 Ask me about: [Your expertise]
-- 📫 How to reach me: [Your email/LinkedIn/social links]
+I'm a passionate **Front-End Developer** and **QA Tester** who loves building clean, responsive web applications — and making sure they work perfectly.  
+I enjoy turning complex ideas into simple, user-friendly designs, and ensuring software quality through meticulous testing.
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
-- **Frontend:** ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- **Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-- **Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+## 🛠️ Tech & QA Stack
+
+### 💻 Front-End
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=fff&style=flat-square)
+
+### ✅ QA & Testing
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=fff&style=flat-square)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=fff&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat-square)
+
+---
+
+## 🌱 What I'm working on
+
+- 🚀 Improving my skills in **React**, **TypeScript**, and modern UI frameworks
+- 🧪 Learning advanced **automated testing** with Selenium and Jest
+- 📱 Building mobile-first and accessible web applications
+- 📋 Writing better test cases and improving test coverage
 
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
+
+![Alfred's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react)
 
 ---
 
-## ✨ Fun Facts
-- 🌍 I love exploring open-source projects and contributing to the community.
-- 📖 In my free time, I enjoy reading [favorite genre] and [hobby].
-- 🎯 Fun fact: [Add something fun about you!]
+## 📫 Let's connect
+
+- ✉️ Email: porcalesa@example.com
+- 💼 LinkedIn: ALfred M. Porcales(https://www.linkedin.com/in/porcales-alfred-638a4b323/)
+- 🌐 Portfolio: 
 
 ---
 
-## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/YourProfile)
-- [Twitter](https://twitter.com/YourHandle)
-- [Personal Website/Portfolio](https://yourwebsite.com)
+⭐️ Feel free to explore my projects, and don’t hesitate to reach out for collaboration in **front-end development** or **quality assurance**!
