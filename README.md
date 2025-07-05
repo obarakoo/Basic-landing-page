@@ -31,12 +31,6 @@ I enjoy turning complex ideas into simple, user-friendly designs, and ensuring s
 
 ---
 
-## 📈 GitHub Stats
-
-![Alfred's GitHub stats](https://github.com/obarakoo)
-
----
-
 ## 📫 Let's connect
 
 - ✉️ Email: porcalesa@example.com
