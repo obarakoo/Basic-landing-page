@@ -34,7 +34,7 @@ I enjoy turning complex ideas into simple, user-friendly designs, and ensuring s
 ## 📫 Let's connect
 
 - ✉️ Email: porcalesa@example.com
-- 💼 LinkedIn: ALfred M. Porcales(https://www.linkedin.com/in/porcales-alfred-638a4b323/)
+- 💼 LinkedIn: ALfred M. Porcales(https://www.linkedin.com/in/alfredporcales/)
 - 🌐 Portfolio: 
 
 ---
