@@ -1,9 +1,8 @@
 .bg-slider-thumbs {
     z-index: 777;
     position: absolute;
-    bottom: 7em;
-    left: 50%;
-    transform: translateX(-50%);
+    bottom: 50px;
+    left: 10%;
     transition: 0.3s ease;
 }
 
@@ -13,26 +12,34 @@
 
 
 .thumbs-container img {
-    width: 50px;
+    width: 80px;
     height: 50px;
-    margin: 0 5px;
-    border-radius: 5px;
+    object-fit: cover;
+    border-radius: 10px;
     cursor: pointer;
-
-
+    opacity: 0.5;
+    transition: 0.3s;
+    border: 2px solid transparent;
 }
 
 .thumbs-container {
-    background: rgb(255, 255, 255, 0.1);
-    backdrop-filter: blur(10px);
-    padding: 10px 3px;
-    border-radius: 10px;
-    border-bottom: 1px solid rgb(0, 0, 0, 0.1);
-    border-right: 1px solid rgb(0, 0, 0, 0.1);
-    box-shadow: var(--box-shadow);
+    background: var(--glass-bg);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    padding: 8px;
+    border-radius: 16px;
+    border: 1px solid var(--glass-border);
+    box-shadow: var(--glass-shadow);
+    display: flex;
+    gap: 8px;
+}
 
+.thumbs-container img:hover {
+    opacity: 0.8;
 }
 
 .swiper-slide-thumb-active {
-    border: 1px solid var(--white-color);
+    opacity: 1 !important;
+    border-color: #6366f1 !important;
+    transform: translateY(-5px);
 }

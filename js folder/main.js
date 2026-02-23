@@ -1,8 +1,9 @@
 var swiper = new Swiper(".bg-slider-thumbs", {
     loop: true,
-    spaceBetween: 0,
-    slidesPerView: 0,
-
+    spaceBetween: 10,
+    slidesPerView: 4,
+    freeMode: true,
+    watchSlidesProgress: true,
 });
 var swiper2 = new Swiper(".bg-slider", {
     loop: true,
