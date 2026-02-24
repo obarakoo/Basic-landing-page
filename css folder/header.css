@@ -35,6 +35,9 @@ header .nav-bar {
     text-transform: uppercase;
     text-decoration: none;
     text-shadow: var(--text-shadow);
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
 
 
